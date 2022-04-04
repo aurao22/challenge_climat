@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 .venv_climate/*
 dataset2/*
+dataset/test_X.csv
+dataset/train_X.csv
